@@ -1,0 +1,20 @@
+{
+    "ServiceRequestDetail" : {
+      "EndClientUserUniqueSessionId" : "1.0",
+      "ServiceRequestVersion" : "1.0",
+      "LanguageCode" : "en",
+      "UserName" : "pmtsysadmin",
+      "RegionCode" : "US",
+      "ServiceResponseVersion" : "1.0",
+      "ResponseType" : "json",
+      "Token" : "",
+      "OwnerId" : "1",
+      "Lob" : "CF",
+      "BrowserIp" : ""
+    },
+    "OwnerId" : "1",
+    "EntityNumber" : "",
+    "EventName" : "Solartis_CF_1_25_V1_CF_GetEntitiesListV2_1.0.0.1",
+    "SearchName" : "GetEntitiesListV2"
+  }
+  

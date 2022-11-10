@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-html-table-to-excel": "^2.0.0",
+    "react-responsive": "^9.0.0",
+    "react-scroll-horizontal": "^1.6.6",
+    "react-table": "^7.8.0",
+    "react-xml-parser": "^1.1.8",
+    "reactstrap": "^9.1.4"
+  }
+}
