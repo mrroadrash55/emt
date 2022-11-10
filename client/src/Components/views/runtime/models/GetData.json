@@ -1,0 +1,16 @@
+{
+    "EventName" : "GetUploadedERC",
+    "OwnerID" : "1",
+    "ServiceRequestDetail" : {
+      "ServiceRequestVersion" : "1.0",
+      "OwnerId" : "1",
+      "Token" : "",
+      "ResponseType" : "json",
+      "ServiceResponseVersion" : "1.0",
+      "RegionCode" : "US",
+      "UserName" : "",
+      "LanguageCode" : "en",
+      "EndClientUserUniqueSessionId" : "uniquesession"
+    }
+    
+  }

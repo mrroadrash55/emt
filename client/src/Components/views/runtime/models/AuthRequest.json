@@ -1,0 +1,12 @@
+{
+    "ServiceRequestDetail": {
+      "ServiceRequestVersion": "2.0",
+      "OwnerId": "1",
+      "BrowserIp": "192.168.5.237",
+      "ResponseType": "json"
+    },
+    "UserCredential": {
+      "UserName": "",
+      "Password": ""
+    }
+}
